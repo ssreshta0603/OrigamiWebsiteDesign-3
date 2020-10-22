@@ -1,0 +1,13 @@
+body{
+    background-image:url(bg.png) ;
+}
+.header{
+    color:#DC143C;
+    display: flex;
+    justify-content:center;
+}
+.item,ul{
+    color:#FF4500;
+}
+
+
